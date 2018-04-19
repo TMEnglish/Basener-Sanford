@@ -2,4 +2,5 @@ numpy
 matplotlib
 scipy
 seaborn
-nodejs
+json
+gzip
