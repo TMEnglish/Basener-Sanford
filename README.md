@@ -7,3 +7,5 @@ This repository is a binder of Jupyter notebooks. If you want simply to view the
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TMEnglish/Basener-Sanford/master)
 
 Thanks to [MyBinder.org](MyBinder.org) for providing this excellent service free of charge. Don't blame their server for the slow launch of the binder, which contains a large volume of data.
+
+Thanks also to William Basener for granting me permission to reuse the code for [Realistic Mutation-Selection Modeling](https://people.rit.edu/wfbsma/evolutionary%20dynamics/EvolutionaryModel.html), some of which is included in `BS.js`. Basener holds the copyright on the code.
